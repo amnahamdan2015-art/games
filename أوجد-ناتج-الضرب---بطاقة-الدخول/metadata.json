@@ -1,0 +1,6 @@
+{
+  "name": "أوجد ناتج الضرب - بطاقة الدخول",
+  "description": "لعبة رياضيات تفاعلية لطلاب الصف الثالث الابتدائي لحل مسائل الضرب والحصول على بطاقة الدخول بطابع مدرسي قطري ممتع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
